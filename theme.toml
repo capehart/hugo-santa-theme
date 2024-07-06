@@ -1,0 +1,19 @@
+name = 'santa'
+license = 'MIT'
+licenselink = 'https://github.com/capehart/hugo-santa-theme/blob/main/LICENSE'
+description = 'Theme description'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/capehart/hugo-santa-theme'
+
+# If you have a running demo of the theme
+demosite = 'https://santaal.com'
+
+# Taxonomy terms
+tags = ['santa', 'personal']
+features = []
+
+# If the theme has a single author
+[author]
+  name = 'AC Capehart'
+  homepage = 'https://accapehart.com/'
